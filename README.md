@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Cover image.png" alt="Project Jarvis Banner" width="600">
+</p>
 # JARVIS AI 🤖
 
 A voice-interactive AI assistant built with **Python** and **Google Gemini**.
