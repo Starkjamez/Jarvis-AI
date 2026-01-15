@@ -21,3 +21,5 @@ A voice-interactive AI assistant built with **Python** and **Google Gemini**.
 1. Install dependencies: `pip install google-genai speechrecognition pyttsx3 pyaudio`
 2. Set your `GEMINI_API_KEY` in your `.zshrc`.
 3. Run `python3 jarvis.py`.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
